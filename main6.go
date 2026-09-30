@@ -30,3 +30,4 @@ func main() {
 	// Menampilkan hasil dengan presisi 7 digit di belakang koma
 	fmt.Printf("%.7f\n", y)
 }
+

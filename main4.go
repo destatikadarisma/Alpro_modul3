@@ -1,3 +1,5 @@
+
+//program konversi suhu dari farenheit ke celcius
 package main
 
 import "fmt"

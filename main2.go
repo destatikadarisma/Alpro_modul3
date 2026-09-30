@@ -1,3 +1,4 @@
+//program yang menmpilkan nama,nim,dan kelas
 package main
 
 import "fmt"

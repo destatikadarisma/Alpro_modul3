@@ -20,7 +20,7 @@ func main() {
 		return
 	}
 
-	// Memeriksa apakah y adalah faktor dari x menggunakan operasi modulo (%)
+	// Memeriksa apakah y =adalah faktor dari x menggunakan operasi modulo (%)
 	if x%y == 0 {
 		fmt.Println(1)
 	} else {
